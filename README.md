@@ -4,13 +4,13 @@
 
 ## Introduction
 
-    This assignment is from American Elite Market, a social network API developed using Node.js and MongoDB.
+This assignment is from American Elite Market, a social network API developed using Node.js and MongoDB.
 
 ## How To Start Node.js Server
 
-    1. Clone the repository or download code from: https://github.com/pratik7262/American-Elite-Market-Assignment .
-    2. Navigate to the project directory: cd American-Elite-Market-Assignment.
-    3. Install dependencies: npm install then start the server: npm start.
+1. Clone the repository or download code from: https://github.com/pratik7262/American-Elite-Market-Assignment .
+2. Navigate to the project directory: cd American-Elite-Market-Assignment.
+3. Install dependencies: npm install then start the server: npm start.
 
 ## End Points
 
@@ -18,7 +18,7 @@
 
 #### 1. Register : /auth/register (Method : POST)
 
-    Use for create user. Send data in body using form
+Use for create user. Send data in body using form
 
 ##### Body Format
 
@@ -41,7 +41,7 @@
 
 #### 2. login : /auth/login (Method : POST)
 
-    Use for login user. Send data in body using form
+Use for login user. Send data in body using form
 
 ##### Body Format
 
