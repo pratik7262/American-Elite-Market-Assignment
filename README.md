@@ -22,22 +22,18 @@ Use for create user. Send data in body using form
 
 ##### Body Format
 
-    ```bash
          name: String,
          username: String,
          email: String,
          password: String,
          bio: String,
          image:file
-    ```
 
 #### Headers
 
-    ```bash
         {
            "Content-Type": "application/json"
         }
-    ```
 
 #### 2. login : /auth/login (Method : POST)
 
@@ -45,23 +41,17 @@ Use for login user. Send data in body using form
 
 ##### Body Format
 
-    ```bash
          username: String,
          password: String,
-    ```
     Example
 
-    ```bash
         {
             "email": "pratikshinde@example.com",
             "password":"1234567890"
         }
-    ```
 
 #### Headers
 
-    ```bash
         {
            "Content-Type": "application/json"
         }
-    ```
