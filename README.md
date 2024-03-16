@@ -196,9 +196,9 @@ Use this endpoint to update particular post. Pass \_id of post instead of :id in
 
 ## Envoirment Variable
 
-### Mongo URI
+### Mongo_URI
 
-Replace the connection string as per your convenient or use mongodb+srv://webproject7262:23hWxoBCvGOhHjMI@cluster0.n3dlyuv.mongodb.net/aem1?retryWrites=true&w=majority This string to use sample data
+Replace the connection string as per your convenient in .env File
 
 Keep Other Variables same
 
