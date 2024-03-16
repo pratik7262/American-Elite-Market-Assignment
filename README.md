@@ -183,7 +183,7 @@ Use this endpoint to update particular post. Pass \_id of post instead of :id in
             token: //jwt token of user whose post is to be update
         }
 
-#### 6. Update particular post : /api/post/update/:id (Method : PATCH)
+#### 6. Delete particular post : /api/post/update/:id (Method : PATCH)
 
 Use this endpoint to update particular post. Pass \_id of post instead of :id in URL and jwt token of user whose post is this in header
 
