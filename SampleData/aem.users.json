@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "65f1b0e2ba4cbe924645fd0a"
+  },
+  "name": "Alice Johnson",
+  "username": "alice_89",
+  "id": "alice_89-4cd56344-f308-4739-9421-145b3be2571c",
+  "email": "alice.johnson@example.com",
+  "password": "$2b$10$DxuQzNs3zz4k7mPS0iHDTur8oYVedinydTBPwdu.K/xeIfMon.dbq",
+  "bio": "Tech enthusiast and avid reader.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T13:57:54.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T13:57:54.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b105ba4cbe924645fd11"
+  },
+  "name": "John Doe",
+  "username": "john_doe123",
+  "id": "john_doe123-149e3334-af70-40a0-bf9e-8d85ee75b9ab",
+  "email": "john.doe@example.com",
+  "password": "$2b$10$9Tgvvx5uw8a3YvjmrgbLuumip2VNez.1/6sQxIXUy4vy6iska7/HW",
+  "bio": "Software engineer with a passion for coding.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T13:58:29.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T13:58:29.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b139ba4cbe924645fd15"
+  },
+  "name": "Alice Smith",
+  "username": "alice_smith92",
+  "id": "alice_smith92-67bbd625-25f5-4b12-98fe-7a703a3c511d",
+  "email": "alice.smith@example.com",
+  "password": "$2b$10$8Pbfe53j70baG.sRo5X91ec7bf0VRQSf2iNkGJmsP5tIZNNkJC/Dy",
+  "bio": "Web developer and coffee lover.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T13:59:21.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T13:59:21.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b147ba4cbe924645fd19"
+  },
+  "name": "Bob Johnson",
+  "username": "bob_johnson85",
+  "id": "bob_johnson85-fc6910a1-1498-4db4-aa24-36e0c6dc3dad",
+  "email": "bob.johnson@example.com",
+  "password": "$2b$10$mVfTGRG8SpWBjJlGTGpU9.7Rcr8ZW0/9GP3cygG4jA9nQF5pm8S7O",
+  "bio": "Graphic designer and outdoor enthusiast.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T13:59:35.880Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T13:59:35.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b152ba4cbe924645fd1d"
+  },
+  "name": "Emily Davis",
+  "username": "emily_davis77",
+  "id": "emily_davis77-e9344091-0896-4be1-ad7e-93a378583c4c",
+  "email": "emily.davis@example.com",
+  "password": "$2b$10$EtQqgkJhbI8.bMOOHZpZSe6xv5Pp0HCnBj.ee39m5D22.ucT5ZHme",
+  "bio": "Photographer and traveler.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T13:59:46.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T13:59:46.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b160ba4cbe924645fd21"
+  },
+  "name": "Michael Brown",
+  "username": "michael_brown123",
+  "id": "michael_brown123-6bcf07b2-6cb6-485c-9675-afbfd3e1074b",
+  "email": "michael.brown@example.com",
+  "password": "$2b$10$Y/A020gHvMCPxU9OLvD3KeIBp1CP10sIIczgceFiY26cmFFAlSfe2",
+  "bio": "Fitness enthusiast and music lover.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:00:00.053Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:00:00.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b17eba4cbe924645fd26"
+  },
+  "name": "Sophia Wilson",
+  "username": "sophia_wilson",
+  "id": "sophia_wilson-fb1299a5-df5e-4d33-a8a2-90f954fe18ac",
+  "email": "sophia.wilson@example.com",
+  "password": "$2b$10$KsfQ7YtNIT51KMLK2XFSV.SCwk1oI63JIR3G.9ZSSut4PPA69euyu",
+  "bio": "Artificial intelligence researcher.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:00:30.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:00:30.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b353ba4cbe924645fd2a"
+  },
+  "name": "James Lee",
+  "username": "james_lee34",
+  "id": "james_lee34-72a3d241-2c38-4406-b832-e596e4b86e4a",
+  "email": "james.lee@example.com",
+  "password": "$2b$10$dIqi350tiwn.2IGK2vZfSuKue9eFGQCSzGmrHQz5mAKkGBd/EpUk2",
+  "bio": "Data scientist and foodie.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:08:19.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:08:19.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b377ba4cbe924645fd2e"
+  },
+  "name": "Olivia Martinez",
+  "username": "olivia_martinez",
+  "id": "olivia_martinez-a3d99990-d29e-4c09-a7af-e739944763df",
+  "email": "olivia.martinez@example.com",
+  "password": "$2b$10$JFKP//fla/JkoTqhzbt97.dU8jaHgtvWPWh/R..HWIuw4wr63FgLa",
+  "bio": "Environmental activist and writer.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:08:55.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:08:55.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b382ba4cbe924645fd32"
+  },
+  "name": "William Taylor",
+  "username": "william_taylor87",
+  "id": "william_taylor87-9f31056f-1c1d-4914-9398-e193fd520e0e",
+  "email": "william.taylor@example.com",
+  "password": "$2b$10$fWkvHtVg2MZLnGyjBSoDZe0u.mnIeUF/5h51vCPU3dNMPBWvAz9rC",
+  "bio": "UX/UI designer and gamer.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:09:06.607Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:09:06.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b3a8ba4cbe924645fd36"
+  },
+  "name": "Ava Anderson",
+  "username": "ava_anderson",
+  "id": "ava_anderson-49f5ca8d-168b-4155-80b4-7830a3d99551",
+  "email": "ava.anderson@example.com",
+  "password": "$2b$10$Ur75L9p4KjqEjnfRXqL0pOwcQhqRH3x7sbWLtQnrYQ1ycH4J4OKZ.",
+  "bio": "Startup founder and entrepreneur.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:09:44.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:09:44.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1b3baba4cbe924645fd3b"
+  },
+  "name": "Daniel Rodriguez",
+  "username": "daniel_rodriguez",
+  "id": "daniel_rodriguez-aa957dc7-7f9a-4752-a77c-c949fa8cb845",
+  "email": "daniel.rodriguez@example.com",
+  "password": "$2b$10$6nRl0GM1CEHVsAVT4bQfKOFBkDKFK61u50Gl4q.C6gc3udDE8wULi",
+  "bio": "Software engineer and nature lover.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-13T14:10:02.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T14:10:02.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f47b903ddcafd4a5b91d40"
+  },
+  "name": "Daniel Rodriguez",
+  "username": "Pratik Shinde",
+  "id": "Pratik Shinde-f9544229-d513-42f0-b150-2e5678c2eb39",
+  "email": "pratikshinde@example.com",
+  "password": "$2b$10$aMZZyYKr4G0.jajwAWm0JuOMVbda/SuI5weJcnJsWSUhQ/lwtBQrO",
+  "bio": "MERN Stack and nature lover.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-15T16:47:12.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T16:47:12.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f542067bc85593edb30a18"
+  },
+  "name": "Daniel Rodriguez",
+  "username": "Pratik Shinde 1",
+  "id": "Pratik Shinde 1-3d6ccf1e-1ab5-4380-993d-9dcc46e22a49",
+  "email": "pratikshinde2@example.com",
+  "password": "$2b$10$2wojq8X77TQg.v4nUyJtMe79FTyftvJnXatcYFFDWc857ukefpvZa",
+  "bio": "MERN Stack and nature lover.",
+  "profilePictureUrl": null,
+  "createdAt": {
+    "$date": "2024-03-16T06:53:58.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T06:53:58.185Z"
+  },
+  "__v": 0
+}]

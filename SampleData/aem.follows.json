@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa0236"
+  },
+  "userId": {
+    "$oid": "65f1b105ba4cbe924645fd11"
+  },
+  "followerId": {
+    "$oid": "65f1b377ba4cbe924645fd2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa0238"
+  },
+  "userId": {
+    "$oid": "65f1b147ba4cbe924645fd19"
+  },
+  "followerId": {
+    "$oid": "65f1b0e2ba4cbe924645fd0a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa0239"
+  },
+  "userId": {
+    "$oid": "65f1b160ba4cbe924645fd21"
+  },
+  "followerId": {
+    "$oid": "65f1b3baba4cbe924645fd3b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa023b"
+  },
+  "userId": {
+    "$oid": "65f1b152ba4cbe924645fd1d"
+  },
+  "followerId": {
+    "$oid": "65f1b377ba4cbe924645fd2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa023c"
+  },
+  "userId": {
+    "$oid": "65f1b3baba4cbe924645fd3b"
+  },
+  "followerId": {
+    "$oid": "65f1b160ba4cbe924645fd21"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa023d"
+  },
+  "userId": {
+    "$oid": "65f1b105ba4cbe924645fd11"
+  },
+  "followerId": {
+    "$oid": "65f1b147ba4cbe924645fd19"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb1cb866b3aa1caa023e"
+  },
+  "userId": {
+    "$oid": "65f1b17eba4cbe924645fd26"
+  },
+  "followerId": {
+    "$oid": "65f1b152ba4cbe924645fd1d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb92b866b3aa1caa0240"
+  },
+  "userId": {
+    "$oid": "65f1b0e2ba4cbe924645fd0a"
+  },
+  "followerId": {
+    "$oid": "65f1b377ba4cbe924645fd2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb92b866b3aa1caa0241"
+  },
+  "userId": {
+    "$oid": "65f1b105ba4cbe924645fd11"
+  },
+  "followerId": {
+    "$oid": "65f1b17eba4cbe924645fd26"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb92b866b3aa1caa0242"
+  },
+  "userId": {
+    "$oid": "65f1b147ba4cbe924645fd19"
+  },
+  "followerId": {
+    "$oid": "65f1b160ba4cbe924645fd21"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1bb92b866b3aa1caa0243"
+  },
+  "userId": {
+    "$oid": "65f1b152ba4cbe924645fd1d"
+  },
+  "followerId": {
+    "$oid": "65f1b3baba4cbe924645fd3b"
+  },
+  "__v": 0
+}]
