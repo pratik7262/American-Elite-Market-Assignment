@@ -79,6 +79,11 @@ exports.getFollowedUsersPosts = async (req, res) => {
         },
       },
       {
+        $sort: {
+          "posts.createdAt": -1,
+        },
+      },
+      {
         $group: {
           _id: null,
           posts: { $push: "$posts" },

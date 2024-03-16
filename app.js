@@ -17,8 +17,10 @@ app.use(bodyParser.json({ limit: "30mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: true }));
 app.use(cors());
 
-/*Default Route*/
+// Making upload folder public
+app.use("/uploads", express.static("uploads"));
 
+/*Default Route*/
 app.get("/", (req, res) => {
   res.send(
     "<p>This is assigment API for American-Elite-Market developed by <a href='https://pratikshinde.in' target='_blank'>Pratik Shinde</a>.</p>"

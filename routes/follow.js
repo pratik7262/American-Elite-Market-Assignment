@@ -8,7 +8,7 @@ const { verifyToken } = require("../middleware/auth.js");
 
 const router = express.Router();
 
-router.post("/followunfollow", verifyToken, followOrUnfollowUser);
+router.get("/followunfollow/:id", verifyToken, followOrUnfollowUser);
 router.get("/getfollowerfollowing", verifyToken, getFollowersFollowings);
 
 module.exports = router;

@@ -13,8 +13,8 @@ const router = express.Router();
 
 router.post("/create", verifyToken, create);
 router.get("/getuserposts", verifyToken, getPost);
-router.get("/getposts", verifyToken, getAllPosts);
 router.get("/getfollowedusersposts", verifyToken, getFollowedUsersPosts);
+router.get("/getallposts", getAllPosts);
 router.patch("/update/:id", verifyToken, update);
 router.delete("/delete/:id", verifyToken, deletePost);
 

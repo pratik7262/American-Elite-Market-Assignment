@@ -15,7 +15,7 @@ const router = express.Router();
 router.post("/register", signUpRules, upload.single("image"), register);
 router.post("/login", signInRules, login);
 router.get("/getuser", verifyToken, getUser);
-router.patch("/updateuser", verifyToken, upload.single("image"), updateUser);
+router.patch("/update", verifyToken, upload.single("image"), updateUser);
 router.delete("/delete", verifyToken, deleteUser);
 
 module.exports = router;

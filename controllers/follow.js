@@ -4,7 +4,7 @@ const Follow = require("../models/Follow.js");
 // Controller function to follow or unfollow a user
 exports.followOrUnfollowUser = async (req, res) => {
   try {
-    const { userId } = req.body;
+    const userId = req.params.id;
     const followerId = req.user.id;
 
     const existingFollow = await Follow.findOne({ userId, followerId });
